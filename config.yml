@@ -39,9 +39,9 @@ site:
     colorBackground: oklch(0.995 0.004 90)
     colorSurface: oklch(0.97 0.012 85)
   brand:
-    name: ws_knuckles_test01
-    namePrimary: Halite
-    nameAccent: WebDev
+    name: Knuckles
+    namePrimary: Knuckles
+    nameAccent: ""
     location: Las Cruces, NM
     email: contact@halitewebdev.com
     phone: ""
