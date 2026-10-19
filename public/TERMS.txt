@@ -1,0 +1,36 @@
+KNUCKLES - TERMS
+
+Effective October 18, 2026
+These terms cover the Knuckles app and its web pages on halitestudio.com. By playing or buying, you agree to them. The privacy policy explains what information the game handles.
+
+THE GAME
+Knuckles is a dice-stacking game. We give you a personal, non-transferable license to play it. You do not own the art, name, rules text, or code. Don’t copy the app, resell it, or break it to cheat a leaderboard or a purchase.
+
+KNUCKLES, THE CURRENCY
+Knuckles are an in-game balance. They have no cash value, cannot be exchanged for money, and cannot be transferred to another player. They are spent on cosmetics and on optional power-ups in matches against the AI. A back-up code moves your own progress between your own devices; it is not a way to give Knuckles to another player. They are not wagered, and a match is not a bet. We may change earn rates, prices in Knuckles, or what an item looks like. If the app is removed from a device, the local balance on that device goes with it.
+
+BATTLE PASS AND COIN PACKS
+The Battle Pass runs in seasons. Season 1, Fall Harvest, lasts 14 days, from 17 November to 1 December 2026, and later seasons may be longer or shorter. Every player has the free reward track. The Premium Battle Pass is a one-time purchase for a single season: it unlocks that season’s Premium reward track and extra weekly challenges and, until the season ends, grants ad rewards without an ad. It does not renew by itself, and you are only charged again if you choose to buy a later season. Rewards you have collected are yours to keep after the season ends. Premium can be restored on another device signed into the same store account. Your Battle Pass progress is saved on the device you play on and can be moved to a new device of yours with the back-up code in Settings. Coin packs add a fixed amount of Knuckles (250, 900, 2,400, or 6,200). The price you pay is the price shown by the App Store or Google Play in your local currency, including tax. Coin packs are delivered when the store confirms the purchase and are not restored as a second grant.
+The Streak Saver is a one-time purchase that restores a Daily Drop streak that lapsed within the last seven days. It is used up when it is applied. After any purchase you receive a thank-you boost: for 20 minutes, Knuckles earned in matches are increased by 20 percent, or by 40 percent after your first purchase. The boost has no cash value, is not a promise of any result, and stops by itself.
+Apple or Google processes the payment and handles refunds under that store’s rules. We cannot refund a store charge from inside the app.
+
+LIMITED-TIME ITEMS
+Some cosmetics, such as the Halloween dice, scenes, and frames, are sold for Knuckles only during a stated window, and the shop shows how long is left. Once you buy one it is yours to keep after the window closes. When the window closes, an item you do not own is no longer sold, and we may bring it back later or not. To help you keep a limited item on a new phone, a record of which limited items you own is saved to your Apple Game Center account (or Google Play Games on Android) when you are signed in. That record is a number kept on a leaderboard. It does not show on any public rank, and Knuckles is not able to restore it if you are not signed in or if the platform service is unavailable.
+
+WHO CAN PLAY
+Knuckles is meant for people 13 and older. If you are under the age of majority where you live, a parent or guardian should agree to these terms and handle purchases through the store’s family controls.
+
+ADS
+Some rewards offer a short ad, after your first few matches. Watching is always your choice. Closing the ad early pays nothing. An active Premium Battle Pass turns those rewards into a claim with no ad.
+
+OTHER PLAYERS
+Hotseat and paired matches are between people you choose to play. Power-ups are not available in those modes. You are responsible for what you send another player over Bluetooth, Wi‑Fi, or a message link.
+
+AVAILABILITY
+The game is provided as it is. Features can change, and a platform service such as Game Center or the store can be unavailable. To the extent the law allows, we are not liable for lost progress, lost Knuckles, or a match that fails to connect. Some places do not allow a limit like that; in those places the limit applies only as far as the law allows.
+
+CHANGES
+We may update these terms by posting a new version on this page with a new date. Continuing to play after that date means you accept the update. If a change is one the store requires you to accept in the app, the app will ask.
+
+CONTACT
+Questions about these terms: privacy@halitestudio.com.
