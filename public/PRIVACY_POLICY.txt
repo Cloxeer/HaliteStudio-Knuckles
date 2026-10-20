@@ -1,13 +1,14 @@
 KNUCKLES - PRIVACY POLICY
 
-Effective October 18, 2026
+Effective October 20, 2026
 This policy describes the Knuckles dice game on the App Store, Google Play, and the web. Knuckles does not ask you to make an account, and it does not ask for your name, email, or age.
 
 INFORMATION KEPT ON YOUR DEVICE
 Progress stays on the device you are playing on. That includes your Knuckles balance, dice and board cosmetics, your Battle Pass progress and whether its Premium track is active, your Daily Drop and friend streaks, your rank and collection, settings, tutorial progress, achievement progress, and how many optional ad rewards you have claimed today. Uninstalling the app deletes this copy. There is no Knuckles server that stores a player profile.
+Dice Hustle, the idle mode, saves its progress on the device in the same way: its scrap, dice, businesses, the friends you have hired, the worlds you have opened, and the time you last played so that your friends can keep earning while you are away. Your chosen game music is saved there too. A match replay is played from the match on your screen and is not saved or uploaded.
 
 BACK-UP CODE
-In Settings you can make a back-up code, which is a copy of the progress described above written as text. It is made on your device and goes nowhere unless you copy or share it yourself, and whoever holds the code can restore that progress, so keep it as you would any private note. It does not include purchases, which the store restores for you.
+In Settings you can make a back-up code, which is a copy of the progress described above written as text. It is made on your device and goes nowhere unless you copy or share it yourself, and whoever holds the code can restore that progress, so keep it as you would any private note. It does not include purchases, which the store restores for you. It does not include Dice Hustle progress, which stays on the device it was made on.
 
 REMINDERS
 Reminders are off unless you turn them on, from a one-time question after your first win or from Settings. If you do, the app schedules local notifications on your device: at most two a week, only about a double-XP weekend or a Daily Drop streak you have going. They are created by the app on your phone. Knuckles does not use a push notification service, does not receive a notification token, and sends nothing to a server for this. Turn them off in Settings or in your device’s notification settings at any time.
@@ -16,11 +17,19 @@ RATINGS
 Rarely, after a win, the game may ask the App Store or Google Play to show its own rating prompt. The store decides whether to show it and handles anything you write; Knuckles does not see your answer or your review.
 
 PURCHASES
-The Premium Battle Pass, coin packs, the starter pack and the Streak Saver are sold by Apple or Google, not by us. We never see your card number. To restore a purchase on a new device, the app asks RevenueCat to check the receipt from the store. RevenueCat receives that receipt and the store’s identifier for the purchase. You can restore from the Shop or from Settings.
+The Premium Battle Pass (a one-time purchase for a single season), coin packs, the starter pack, the Streak Saver and the extra Daily Drop spin are sold by Apple through the App Store or by Google through Google Play billing, not by us. Nothing is sold inside Dice Hustle. We never see your card number. To restore a purchase on a new device, the app asks RevenueCat to check the receipt from the store. RevenueCat receives that receipt and the store’s identifier for the purchase. You can restore from the Shop or from Settings.
 
 ADVERTISING
-Rewarded ads are provided by Google AdMob. An ad plays only after you tap a button such as Double it, Boost, Free Knuckles, or a power-up claim. Closing an ad early gives no reward. There are no ads on launch, no banners, and no ads between turns.
+Rewarded ads are provided by Google AdMob. An ad plays only after you tap a button such as Double it, Boost, Free Knuckles, a power-up claim, or one of the optional buttons in Dice Hustle (Free!, Boost!, and Double it on the welcome-back chest). Closing an ad early gives no reward. There are no ads on launch, no banners, and no ads between turns.
 AdMob may receive an advertising identifier and related device information to deliver and measure the ad. Knuckles asks for non-personalized ads only and does not track you across other apps and websites, so it never shows the iPhone tracking permission prompt. The ads are chosen for the content of the game, not for you, and are limited to a family-friendly content rating. In regions that require it, Google’s consent form is shown before the first ad. You can open it again from Settings under “Privacy options (ads).”
+
+WHAT THIS MEANS FOR THE STORE PRIVACY FORMS
+Knuckles itself collects no name, email address, phone number, or precise location, and has no account. The only information that leaves your device is handled by the services below, and none of it is used to track you across other companies’ apps and websites.
+- Device or other identifiers, such as an advertising identifier: received by Google AdMob so that an ad you chose to watch can be delivered and measured. It is used for advertising, is not linked to your name, and is not used for tracking.
+- Purchase history: your store receipt and the store’s identifier for the purchase, received by RevenueCat so that a purchase can be delivered and restored.
+- App activity and diagnostics: the ad service may receive how an ad performed and basic diagnostics, for advertising and analytics.
+- Game Center or Google Play Games: only if you sign in, held by Apple or Google under their own policies.
+- Your game progress, including Dice Hustle: stays on your device and is not collected by us.
 
 GAME CENTER AND PLAY GAMES
 Leaderboards and platform achievements use Apple Game Center or Google Play Games, and only if you sign in. Those companies hold that profile under their own policies. Knuckles does not receive your Game Center or Play Games password.
@@ -33,6 +42,9 @@ Paired mode can use Bluetooth, the local Wi‑Fi network, or a message link to f
 
 WHAT WE DO WITH THIS
 Device data is used to run the game: save progress, deliver a purchase you made, and show an ad you asked for. We do not sell personal information. We do not use it to build a marketing profile of our own.
+
+DELETING YOUR DATA
+Nearly everything lives on your device, so uninstalling the app deletes it. To ask us to delete the records that other companies hold because of the app (purchase records at RevenueCat, or ad data at Google), email privacy@halitestudio.com from the device or store account concerned and say what you want deleted. Apple and Google hold Game Center, Play Games, and store receipts themselves, so ask them for those. There is no account to close.
 
 YOUR CHOICES
 - Skip every ad. Rewards that an ad can give can also be earned in play or bought in the Shop.
