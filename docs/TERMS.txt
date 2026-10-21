@@ -1,6 +1,6 @@
 KNUCKLES - TERMS
 
-Effective October 20, 2026
+Effective October 21, 2026
 These terms cover the Knuckles app and its web pages on halitestudio.com. By playing or buying, you agree to them. The privacy policy explains what information the game handles.
 
 THE GAME
@@ -10,7 +10,7 @@ KNUCKLES, THE CURRENCY
 Knuckles are an in-game balance. They have no cash value, cannot be exchanged for money, and cannot be transferred to another player. They are spent on cosmetics and on optional power-ups in matches against the AI. A back-up code moves your own progress between your own devices; it is not a way to give Knuckles to another player. They are not wagered, and a match is not a bet. We may change earn rates, prices in Knuckles, or what an item looks like. If the app is removed from a device, the local balance on that device goes with it.
 
 DICE HUSTLE
-Dice Hustle is the idle mode of Knuckles. Its scrap and its dice are separate in-game balances: they have no cash value, cannot be exchanged for money, cannot be bought, sold, or traded, and cannot be moved to another player. Nothing is bought inside Dice Hustle. It may pay Knuckles as an in-game reward, and the rules for Knuckles above apply to them. Its progress is saved on your device, is not part of the back-up code, and goes with the app if it is removed from the device. We may change Dice Hustle with an update, including its numbers, its worlds, and its rewards, and an update may reset it if we say so in the app.
+Dice Hustle is the idle mode of Knuckles. Its scrap and its dice are separate in-game balances: they have no cash value, cannot be exchanged for money, cannot be bought, sold, or traded, and cannot be moved to another player. Nothing is bought inside Dice Hustle. It may pay Knuckles as an in-game reward, and the rules for Knuckles above apply to them. Its progress is saved on your device, can be moved to a new device of yours with the back-up code in Settings, and goes with the app if it is removed from the device. We may change Dice Hustle with an update, including its numbers, its worlds, and its rewards, and an update may reset it if we say so in the app.
 
 BATTLE PASS AND COIN PACKS
 The Battle Pass runs in seasons. Season 1, Fall Harvest, lasts 14 days, from 17 November to 1 December 2026, and later seasons may be longer or shorter. Every player has the free reward track. The Premium Battle Pass is a one-time purchase for a single season: it unlocks that season’s Premium reward track and extra weekly challenges and, until the season ends, grants ad rewards without an ad. It does not renew by itself, and you are only charged again if you choose to buy a later season. Rewards you have collected are yours to keep after the season ends. Premium can be restored on another device signed into the same store account. Your Battle Pass progress is saved on the device you play on and can be moved to a new device of yours with the back-up code in Settings. Coin packs add a fixed amount of Knuckles (250, 900, 2,400, or 6,200). The price you pay is the price shown by the App Store or Google Play in your local currency, including tax. Coin packs are delivered when the store confirms the purchase and are not restored as a second grant.

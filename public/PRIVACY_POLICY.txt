@@ -1,6 +1,6 @@
 KNUCKLES - PRIVACY POLICY
 
-Effective October 20, 2026
+Effective October 21, 2026
 This policy describes the Knuckles dice game on the App Store, Google Play, and the web. Knuckles does not ask you to make an account, and it does not ask for your name, email, or age.
 
 INFORMATION KEPT ON YOUR DEVICE
@@ -8,7 +8,7 @@ Progress stays on the device you are playing on. That includes your Knuckles bal
 Dice Hustle, the idle mode, saves its progress on the device in the same way: its scrap, dice, businesses, the friends you have hired, the worlds you have opened, and the time you last played so that your friends can keep earning while you are away. Your chosen game music is saved there too. A match replay is played from the match on your screen and is not saved or uploaded.
 
 BACK-UP CODE
-In Settings you can make a back-up code, which is a copy of the progress described above written as text. It is made on your device and goes nowhere unless you copy or share it yourself, and whoever holds the code can restore that progress, so keep it as you would any private note. It does not include purchases, which the store restores for you. It does not include Dice Hustle progress, which stays on the device it was made on.
+In Settings you can make a back-up code, which is a copy of the progress described above written as text. It is made on your device and goes nowhere unless you copy or share it yourself, and whoever holds the code can restore that progress, so keep it as you would any private note. It does not include purchases, which the store restores for you. It does include your Dice Hustle progress.
 
 REMINDERS
 Reminders are off unless you turn them on, from a one-time question after your first win or from Settings. If you do, the app schedules local notifications on your device: at most two a week, only about a double-XP weekend or a Daily Drop streak you have going. They are created by the app on your phone. Knuckles does not use a push notification service, does not receive a notification token, and sends nothing to a server for this. Turn them off in Settings or in your device’s notification settings at any time.
